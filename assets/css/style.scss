@@ -1,3 +1,20 @@
 .carouselBg {
     background: #feeae9;
 }
+.category{
+    img{
+        width:100px
+    }
+}
+.singleCard {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.backpackArea{
+    .singleCard{
+        .card-footer{
+            background-color: #fff;
+            border-top:none ;
+        }
+    }
+}
